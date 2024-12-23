@@ -14,4 +14,6 @@ An email system built in Java using the JavaMail API, with a Swing-based GUI and
 - **Libraries**: JavaMail API, SQLite
 - **GUI Framework**: Swing
 
+#Screenshots
+Here is a preview of the Email System:
 
