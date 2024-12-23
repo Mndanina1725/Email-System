@@ -15,5 +15,11 @@ An email system built in Java using the JavaMail API, with a Swing-based GUI and
 - **GUI Framework**: Swing
 
 ## Screenshots
-Here is a preview of the Email System:
+Here are previews of the Email System project:
+
+![Email System Screenshot 1](https://github.com/Mndanina1725/Email-System/blob/main/image1.png)
+![Email System Screenshot 2](https://github.com/Mndanina1725/Email-System/blob/main/image2.png)
+![Email System Screenshot 3](https://github.com/Mndanina1725/Email-System/blob/main/image3.png)
+![Email System Screenshot 4](https://github.com/Mndanina1725/Email-System/blob/main/image4.png)
+
 
